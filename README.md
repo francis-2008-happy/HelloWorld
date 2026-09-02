@@ -7,6 +7,8 @@ The software is a short Node.js script. It prints "Hello World" to the terminal 
 My purpose for building it was to confirm that my toolchain (Node.js, Git, and VS Code) works end to end and to practice the complete cycle of creating software and sharing it publicly.
 
 Software Demo Video: 
+https://www.loom.com/share/c8c4edee94724c09bfa56720f8933301
+
 
 # Development Environment
 
